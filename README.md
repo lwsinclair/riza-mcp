@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/riza-io-riza-mcp-badge.png)](https://mseep.ai/app/riza-io-riza-mcp)
+
 # Riza MCP Server
 
 [Riza](https://riza.io) offers an isolated code interpreter for your LLM-generated code. 
